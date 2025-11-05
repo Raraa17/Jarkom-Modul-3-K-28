@@ -213,6 +213,8 @@ Setelah itu jalankan `named -g` pada kedua node dan lakukan tes dengan `@192.225
 
 ![alt text](Images/soal4_b.png)
 
+![alt text](Images/soal4_c.png)
+
 
 ### Soal 5
 
